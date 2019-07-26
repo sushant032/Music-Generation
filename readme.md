@@ -1,0 +1,1 @@
+Music Generation Using Recurrent Neural Networks by converting MIDI files to their respective ABC notation and predicting the consequent ABC notes by giving the start symbol.
